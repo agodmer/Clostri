@@ -14,13 +14,19 @@ Alexandre Godmer<sup>1</sup><sup>,</sup><sup>2</sup><sup>#</sup>, Quentin Giai G
 
 Corresponding author: Catherine Eckert - catherine.eckert@aphp.fr
 
-1 INSERM, U1135, Centre d’Immunologie et des Maladies Infectieuses, Sorbonne Université, Cimi-Paris, Paris, France
-2 AP-HP (Assistance Publique Hôpitaux de Paris), Département de Bactériologie, Groupe Hospitalier Universitaire, Sorbonne Université, Hôpital, Saint-Antoine, Paris, France
-3 Institut Pasteur, Université Paris Cité, Bioinformatics and Biostatistics HUB, Paris, France
-4 Institut Pasteur, Université Paris Cité, Proteomics Platform, Mass Spectrometry for Biology Unit, UAR CNRS 2024, Paris, France
-5 AP-HP (Assistance Publique Hôpitaux de Paris), National Reference Laboratory for Clostridioides difficile, Paris, France 
-6 INSERM 1139, Université Paris Cité, Paris, France 
-7 AP-HP (Assistance Publique Hôpitaux de Paris), Hôpital Pitié Salpêtrière, Centre National de Référence des Mycobactéries et de la Résistance des Mycobactéries aux Antituberculeux, Paris, France
+<sup>1</sup> INSERM, U1135, Centre d’Immunologie et des Maladies Infectieuses, Sorbonne Université, Cimi-Paris, Paris, France
+
+<sup>2</sup> AP-HP (Assistance Publique Hôpitaux de Paris), Département de Bactériologie, Groupe Hospitalier Universitaire, Sorbonne Université, Hôpital, Saint-Antoine, Paris, France
+
+<sup>3</sup> Institut Pasteur, Université Paris Cité, Bioinformatics and Biostatistics HUB, Paris, France
+
+<sup>4</sup> Institut Pasteur, Université Paris Cité, Proteomics Platform, Mass Spectrometry for Biology Unit, UAR CNRS 2024, Paris, France
+
+<sup>5</sup> AP-HP (Assistance Publique Hôpitaux de Paris), National Reference Laboratory for Clostridioides difficile, Paris, France 
+
+<sup>6</sup> INSERM 1139, Université Paris Cité, Paris, France 
+
+<sup>7</sup> AP-HP (Assistance Publique Hôpitaux de Paris), Hôpital Pitié Salpêtrière, Centre National de Référence des Mycobactéries et de la Résistance des Mycobactéries aux Antituberculeux, Paris, France
 
 
 ### References
